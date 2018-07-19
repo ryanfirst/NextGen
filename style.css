@@ -1,0 +1,15 @@
+img: hover {
+    border: 12px solid black;
+}
+ body {
+        background-color: gray;
+        }
+ h1{
+           color: orange;
+           font-size: 50px;
+           font-family: helvetica;
+    }
+         p {
+            font-family: Arial;
+            color: blue;
+            }
